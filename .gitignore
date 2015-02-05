@@ -1,4 +1,6 @@
-# Windows:
-*/Thumbs.db/
-*/ehthumbs.db/
-*/Desktop.ini/
+#
+*.a
+!lib.a
+/TODO
+build/
+doc/*.txt
